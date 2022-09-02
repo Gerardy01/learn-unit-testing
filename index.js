@@ -1,0 +1,1 @@
+// npx jest --coverage untuk menampilkan seluruh file yang di test apakah sudah seluruhnya atau belum
